@@ -1,0 +1,22 @@
+{
+    "name": "haomvc/haomvc-x",
+    "description": "HaoMVC X Framework.",
+    "keywords": [
+        "HaoX"
+    ],
+    "homepage": "http://www.haomvc.com/",
+    "license": "Apache-2.0",
+    "authors": [],
+    "require": {},
+    "autoload": {
+        "files": ["src/common/function.php"],
+        "psr-4": {
+            "HaoMVC\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "config": {
+        "sort-packages": true
+    }
+}

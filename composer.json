@@ -9,7 +9,7 @@
     "authors": [],
     "require": {},
     "autoload": {
-        "files": ["src/common/function.php"],
+        "files": ["src/function.php"],
         "psr-4": {
             "HaoMVC\\": "src/"
         }
